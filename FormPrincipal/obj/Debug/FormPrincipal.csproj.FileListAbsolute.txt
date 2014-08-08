@@ -1,0 +1,9 @@
+c:\desenvolvimento\CalculaTMB\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+c:\desenvolvimento\CalculaTMB\FormPrincipal\bin\Debug\FormPrincipal.exe
+c:\desenvolvimento\CalculaTMB\FormPrincipal\bin\Debug\FormPrincipal.pdb
+c:\desenvolvimento\CalculaTMB\FormPrincipal\obj\Debug\FormPrincipal.csprojResolveAssemblyReference.cache
+c:\desenvolvimento\CalculaTMB\FormPrincipal\obj\Debug\FormPrincipal.Form1.resources
+c:\desenvolvimento\CalculaTMB\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+c:\desenvolvimento\CalculaTMB\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.Cache
+c:\desenvolvimento\CalculaTMB\FormPrincipal\obj\Debug\FormPrincipal.exe
+c:\desenvolvimento\CalculaTMB\FormPrincipal\obj\Debug\FormPrincipal.pdb
