@@ -63,7 +63,7 @@ namespace FormPrincipal
             } //fim switch
 
             tmb.Text = Convert.ToString("Taxa Metabolica: "+total);
-            MessageBox.Show(Convert.ToString(total2));
+            atividade.Text = Convert.ToString("Taxa Metabolica \n c/ Atividade: " + total2);
         }
     }
 }

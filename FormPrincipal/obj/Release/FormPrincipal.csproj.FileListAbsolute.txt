@@ -1,0 +1,8 @@
+C:\Desenvolvimento\CalculaTMB\FormPrincipal\bin\Release\FormPrincipal.exe.config
+C:\Desenvolvimento\CalculaTMB\FormPrincipal\bin\Release\FormPrincipal.exe
+C:\Desenvolvimento\CalculaTMB\FormPrincipal\bin\Release\FormPrincipal.pdb
+C:\Desenvolvimento\CalculaTMB\FormPrincipal\obj\Release\FormPrincipal.Form1.resources
+C:\Desenvolvimento\CalculaTMB\FormPrincipal\obj\Release\FormPrincipal.Properties.Resources.resources
+C:\Desenvolvimento\CalculaTMB\FormPrincipal\obj\Release\FormPrincipal.csproj.GenerateResource.Cache
+C:\Desenvolvimento\CalculaTMB\FormPrincipal\obj\Release\FormPrincipal.exe
+C:\Desenvolvimento\CalculaTMB\FormPrincipal\obj\Release\FormPrincipal.pdb
