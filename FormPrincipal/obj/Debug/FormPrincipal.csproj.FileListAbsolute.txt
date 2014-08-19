@@ -7,3 +7,6 @@ c:\desenvolvimento\CalculaTMB\FormPrincipal\obj\Debug\FormPrincipal.Properties.R
 c:\desenvolvimento\CalculaTMB\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.Cache
 c:\desenvolvimento\CalculaTMB\FormPrincipal\obj\Debug\FormPrincipal.exe
 c:\desenvolvimento\CalculaTMB\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\Abrahão\Documents\GitHub\CalculaTMB\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\Abrahão\Documents\GitHub\CalculaTMB\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\Abrahão\Documents\GitHub\CalculaTMB\FormPrincipal\obj\Debug\FormPrincipal.pdb
